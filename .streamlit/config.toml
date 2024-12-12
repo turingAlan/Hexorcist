@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#8a2be2"  # A royal purple for a sophisticated touch
+backgroundColor="#1e1e2f"  # A deep navy background for a sleek look
+secondaryBackgroundColor="#2c2c3c"  # A muted contrast for containers
+textColor="#eaeaea"  # Light text for readability
+font="sans serif"  # A serif font for a timeless, classy appearance
